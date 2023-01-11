@@ -1,0 +1,11 @@
+.banner-image{
+    background-image: url("../assets/imgs/img.jpg");
+    background-repeat: no-repeat;
+background-size: cover;
+}
+
+.kernel-widt{
+    width: 50px;
+    height: 50px;
+    font-size: 50px;
+}
